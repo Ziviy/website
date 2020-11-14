@@ -96,6 +96,11 @@ hr {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
 }
+.btn:hover {
+  border-radius: 20px;
+  padding: 1.3rem;
+  
+}
 .footer-link {
   margin: 0 2rem 0 2rem;
   text-decoration: none;
