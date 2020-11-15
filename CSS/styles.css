@@ -59,6 +59,7 @@ p {
 }
 .middle-container {
   color: #f9f7f7;
+  padding-top: 4rem;
 }
 .chilskill {
   width: 25%;
@@ -73,9 +74,8 @@ p {
 }
 hr {
   border: none;
-  border-top: 8px dotted;
+  border-top: 8px #dbe2ef dotted;
   width: 5%;
-  border-color: #dbe2ef;
   margin: 7rem auto 6rem auto;
 }
 .bottom-container {
@@ -99,7 +99,7 @@ hr {
 .btn:hover {
   border-radius: 20px;
   padding: 1.3rem;
-  
+
 }
 .footer-link {
   margin: 0 2rem 0 2rem;
@@ -107,6 +107,9 @@ hr {
   color: #3f72af;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
+}
+.footer-link:hover {
+  color: #EAF6F6;
 }
 .copyright {
   position: relative;
